@@ -1,9 +1,5 @@
-graphviz
-scikit-learn
-pandas
-numpy
-scipy
-jupyter
-jupyterlab
-matplotlib
-pandoc
+graphviz==0.20.3
+numpy==1.26.4
+jupyter==1.0.0
+jupyterlab==4.1.6
+matplotlib==3.8.4
