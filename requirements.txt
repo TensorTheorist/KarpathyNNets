@@ -1,0 +1,9 @@
+graphviz
+scikit-learn
+pandas
+numpy
+scipy
+jupyter
+jupyterlab
+matplotlib
+pandoc
